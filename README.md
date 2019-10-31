@@ -9,3 +9,9 @@ Usage
 ---
 
   python strings2.py file
+
+Possible improvements
+---
+
+- Specifiy the flag format(s)
+- Specify where to look for (STDIN / STDOUT / STDERR)
